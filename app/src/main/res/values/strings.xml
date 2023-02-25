@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Order</string>
+    <string name="slogan">Кушайте постоянно: дома, на работе, в офисе и метро! Наше приложение поможет вам заказать еду куда-угодно</string>
+    <string name="register">Регистрация</string>
+    <string name="auth">Авторизация</string>
+    <string name="hintPhone">Номер Телефона</string>
+    <string name="hintPassword">Введите пароль</string>
+    <string name="authUser">Войти в кабинет</string>
+</resources>
